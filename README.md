@@ -1,4 +1,4 @@
-# The JavaScript Curriculum
+# The JavaScript Curriculum for Hernests
 ## A JavaScript Curriculum for Active Learners
 
 ### About
