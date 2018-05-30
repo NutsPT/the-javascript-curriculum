@@ -21,13 +21,13 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
     - [GitExtensions (Windows)](http://sourceforge.net/projects/gitextensions/)
     - [Tower (Mac)](http://www.git-tower.com/)
     - [Github Desktop (Mac/Windows)](https://desktop.github.com/) *In pre-release*
-- [ ] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
+- [x] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
 
 ### Pre-Requisites
-- [ ] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
+- [x] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
   - If you're running on Windows, check out these [tips](https://johnpapa.net/tips-for-running-node-and-npm-on-windows/).
-- [ ] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
-- [ ] Get a good text editor/IDE.
+- [x] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
+- [x] Get a good text editor/IDE.
   - Text Editor
     - [Atom](http://www.atom.io/)
     - [Sublime Text](http://www.sublimetext.com/3)
