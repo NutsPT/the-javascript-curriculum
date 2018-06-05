@@ -64,18 +64,18 @@ The Internet is a vast cache of information and if you know how to navigatge it 
  - [x] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ### Become a Better JavaScript Developer
-- [ ] Practice Best Practices -- see section below
-- [ ] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
+- [x] Practice Best Practices -- see section below
+- [x] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
   - Run `npm install -g scope-chains-closures`
-- [ ] Learn fundamental functional programming features of JavaScript in vanilla ES5.
+- [x] Learn fundamental functional programming features of JavaScript in vanilla ES5.
   - `npm install -g functional-javascript-workshop` 
-- [ ] Learn to use promises in JavaScript to handle async operations.
+- [x] Learn to use promises in JavaScript to handle async operations.
   - `npm install -g promise-it-wont-hurt` 
   - Additional information: [Q.js](http://documentup.com/kriskowal/q/)
-- [ ] Learn Lo-Dash (fork of underscore) to handle your arrays and objects simple!
+- [x] Learn Lo-Dash (fork of underscore) to handle your arrays and objects simple!
   - `npm install -g lololodash`
   - Additional information: [Underscore.js](http://underscorejs.org/) has great documentation. Also check out [lodash](https://lodash.com/).
-- [ ] Learn to test your code
+- [x] Learn to test your code
   - `npm install -g test-anything`
 
 ### Get Started with Node.JS
